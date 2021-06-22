@@ -1,0 +1,6 @@
+﻿  C++_Basics.cpp
+C:\Users\Admin\Desktop\C++\C++ Projects\MyFirstApp\C++_Basics.cpp(66,64): warning C4307: '+': signed integral constant overflow
+C:\Users\Admin\Desktop\C++\C++ Projects\MyFirstApp\C++_Basics.cpp(67,64): warning C4307: '+': signed integral constant overflow
+C:\Users\Admin\Desktop\C++\C++ Projects\MyFirstApp\C++_Basics.cpp(70,64): warning C4307: '-': signed integral constant overflow
+C:\Users\Admin\Desktop\C++\C++ Projects\MyFirstApp\C++_Basics.cpp(71,64): warning C4307: '-': signed integral constant overflow
+  MyFirstApp.vcxproj -> C:\Users\Admin\Desktop\C++\C++ Projects\MyFirstApp\Debug\MyFirstApp.exe
